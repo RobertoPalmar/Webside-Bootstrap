@@ -1,0 +1,23 @@
+
+hr{
+    display: block;
+    background: #333;
+    border: .2rem solid #333;
+    margin: 3rem 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+.big{
+    font-size: 3.5rem !important;
+}
+
+.left{
+    text-align: left !important;
+}
+
+.right{
+    text-align: right !important;
+}
